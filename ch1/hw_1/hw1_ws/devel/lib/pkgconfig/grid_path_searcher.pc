@@ -1,0 +1,8 @@
+prefix=/home/lance/Documents/mydocument/motion planning/ch1/hw_1/hw1_ws/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/lance/Documents/mydocument/motion planning/ch1/hw_1/hw1_ws/src/grid_path_searcher/include
+Libs: -L/home/lance/Documents/mydocument/motion planning/ch1/hw_1/hw1_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/lance/Documents/mydocument/motion planning/ch1/hw_1/hw1_ws/devel
+
+Name: waypoint_generator
+Description: Description of waypoint_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lance/Documents/mydocument/motion planning/ch1/hw_1/hw1_ws/devel/lib 
+Requires: 
