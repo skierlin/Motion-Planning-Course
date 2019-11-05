@@ -1,0 +1,8 @@
+prefix=/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install/include
+Libs: -L/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install/lib 
+Requires: 

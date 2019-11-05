@@ -1,0 +1,8 @@
+prefix=/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/devel
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/devel/lib 
+Requires: 

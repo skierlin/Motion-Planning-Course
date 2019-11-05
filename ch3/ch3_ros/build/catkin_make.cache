@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCATKIN_DEVEL_PREFIX=/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/devel -DCMAKE_INSTALL_PREFIX=/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install -G Unix Makefiles

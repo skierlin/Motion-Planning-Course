@@ -1,0 +1,8 @@
+prefix=/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install
+
+Name: waypoint_generator
+Description: Description of waypoint_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lance/Documents/mydocument/Motion-Planning-Course/ch3/ch3_ros/install/lib 
+Requires: 
